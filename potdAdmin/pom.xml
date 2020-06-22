@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.cw357</groupId>
+  <artifactId>potdAdmin</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>PoTD Administrator</name>
+  <description>bot for PoTD contest	</description>
+  <dependencies>
+  <dependency>
+    <groupId>com.discord4j</groupId>
+    <artifactId>discord4j-core</artifactId>
+    <version>3.1.0.RC2</version>
+  </dependency>
+</dependencies>
+</project>
